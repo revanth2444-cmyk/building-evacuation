@@ -1,0 +1,6 @@
+{
+  "name": "EVACUATE-AI Evacuation Graph",
+  "description": "Agent-based microscopic evacuation simulation, computational egress graph, reproducible seeds, and 3D digital twin visualization for multi-floor buildings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
